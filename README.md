@@ -2,9 +2,10 @@
 
 # 🗣️ EnglishBengali
 
-**Learn Bengali and English together — bilingual phrases with audio pronunciation, flashcards, and quizzes.**
+**Learn Bengali and English together — bilingual phrases with audio, flashcards, and quizzes.**
 
-[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/englishbengali/id6760596738](https://apps.apple.com/app/englishbengali/id6760596738)
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/id6760596738)
+[![Platform](https://img.shields.io/badge/platform-iOS-black?logo=apple)](https://luminadevapps.com)
 [![Website](https://img.shields.io/badge/website-luminadevapps.com-1575F9)](https://luminadevapps.com)
 
 Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Canada
@@ -15,11 +16,19 @@ Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Can
 
 ## Overview
 
-Learn Bengali and English together — bilingual phrases with audio pronunciation, flashcards, and quizzes.
+Learn Bengali and English together — bilingual phrases with audio, flashcards, and quizzes.
+
+## ✨ Features
+
+- Audio pronunciation
+- Flashcards
+- Quizzes
+- Categorized everyday phrases
+- Offline access
 
 ## 📲 Download
 
-[Download on the App Store](https://apps.apple.com/app/englishbengali/id6760596738](https://apps.apple.com/app/englishbengali/id6760596738) — per-country links below.
+[Download on the App Store](https://apps.apple.com/app/id6760596738) — per-country links below.
 
 ## 💬 Support
 
